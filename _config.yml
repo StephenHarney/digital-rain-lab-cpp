@@ -6,4 +6,4 @@ author:
 description: "A Blog."
 
 # Build settings 
-remote_theme:jecky11/minima
+remote_theme: jecky11/minima
