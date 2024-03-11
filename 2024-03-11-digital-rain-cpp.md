@@ -10,6 +10,9 @@ This is my first paragraph...
 ## This is My Digital Rain Project C++
 
 This is a paragraph. Add an empty line to start a new paragraph.
+This is my digital Rain project for c++ module, it has an effect that can have rainging charactors on the screen,
+Just like the Matrix Movie!!!
+
 
 Font can be *Italic* or **Bold**.
 
