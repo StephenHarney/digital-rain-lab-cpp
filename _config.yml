@@ -1,9 +1,9 @@
-#Site settings 
+# Site settings
 title: Digital Rain Modern C++ Project Blog
 author:
-    name: Stephen Harney
-    email: email@.com
-description: "A Blog."
+  name: Stephen Harney
+  email: your-email@domain.com
+description: "A blog."
 
-# Build settings 
-remote_theme: jeky11/minima
+# Build settings
+remote_theme: jekyll/minima
