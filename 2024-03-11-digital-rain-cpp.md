@@ -13,6 +13,8 @@ Just like the Matrix Movie!!.With the power of C++ this can be achieved within V
 
 
 Design & Test
+To design the DigitalRain I used C++ programming langauge and use visaul studio IDE.
+I used vectors to fill a 2d matrix that will fill the matrix with randomcharactors to print the matrix before it could print the random charactors which is achived by using the random number library.
 
 Algorithm 
 
