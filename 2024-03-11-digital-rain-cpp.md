@@ -8,10 +8,9 @@ categories: demo
 ## Introduction
 
 This is my digital Rain project for c++ module, it has an effect that can have rainging charactors on the screen,
-Just like the Matrix Movie!!!
+Just like the Matrix Movie!!.With the power of C++ this can be achieved within VisualStudio and can print the Digtial Rain effect just like the movie. With the power of vectors filling Matrixes this can be achived and using the FillRand fucntion from the random number library we can fill the rainingCharactors array with random charactors to make it seem like the charactors are random.
 
-I am using c++ to demostrate the raining charactors effects jsut like the matrix movie intro.
-I am using vectors and a algorithm to generate charactors and to fill a matrix to produce the raining charactors effect.
+
 
 Design & Test
 
