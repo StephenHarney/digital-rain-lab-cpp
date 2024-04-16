@@ -5,7 +5,7 @@ tags: cpp coding project
 categories: demo
 ---
 
-## This is My Digital Rain Matrix Project C++
+## Introduction
 
 This is my digital Rain project for c++ module, it has an effect that can have rainging charactors on the screen,
 Just like the Matrix Movie!!!
