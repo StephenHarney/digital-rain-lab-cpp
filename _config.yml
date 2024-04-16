@@ -8,4 +8,4 @@ description: "A blog."
 # Build settings
 remote_theme: jekyll/minima
 
-<img src="https://raw.githubusercontent.com/StephenHarney/_config.ynl/main/MatrixCode.png" width="400" height="300">
+<img src="https://raw.githubusercontent.com/StephenHarney/_config.yml/main/MatrixCode.png" width="400" height="300">
