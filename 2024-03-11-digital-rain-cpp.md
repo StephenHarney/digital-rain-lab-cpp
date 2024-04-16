@@ -15,11 +15,11 @@ I am using vectors and a algorithm to generate charactors and to fill a matrix t
 
 ###Design & Test
 
-####Algorithm 
+##Algorithm 
 
-######Problem-solving
+##Problem-solving
 
-#######Modren C++
+##Modren C++
 
 
 Hyperlinks look like this: [GitHub Help](https://help.github.com/).
