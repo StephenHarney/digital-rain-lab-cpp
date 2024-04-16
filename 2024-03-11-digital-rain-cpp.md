@@ -5,8 +5,6 @@ tags: cpp coding project
 categories: demo
 ---
 
-This is my first paragraph...
-
 ## This is My Digital Rain Project C++
 
 This is my digital Rain project for c++ module, it has an effect that can have rainging charactors on the screen,
@@ -21,6 +19,10 @@ Code can be highlighted with `backticks`.
 
 Hyperlinks look like this: [GitHub Help](https://help.github.com/).
 
+`for(int x = 0; x < x; x++){
+    x + y;
+  
+}`
 A bullet list:
 
 - vectors
