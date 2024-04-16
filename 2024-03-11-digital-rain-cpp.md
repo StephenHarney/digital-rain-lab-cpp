@@ -19,4 +19,3 @@ I am using vectors and a algorithm to generate charactors and to fill a matrix t
 Hyperlinks look like this: [GitHub Help](https://help.github.com/).
 
 
-<img src="https://raw.githubusercontent.com/StephenHarney/digital-rain-lab-cpp/main/docs/assets/C++Project.png" width="400" height="300">
