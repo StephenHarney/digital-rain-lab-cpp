@@ -13,7 +13,13 @@ Just like the Matrix Movie!!!
 I am using c++ to demostrate the raining charactors effects jsut like the matrix movie intro.
 I am using vectors and a algorithm to generate charactors and to fill a matrix to produce the raining charactors effect.
 
+##Design & Test
 
+##Algorithm 
+
+##Problem-solving
+
+##Modren C++
 
 
 Hyperlinks look like this: [GitHub Help](https://help.github.com/).
