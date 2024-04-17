@@ -10,11 +10,11 @@ categories: demo
 This is my digital Rain project for c++ module, it has an effect that can have rainging charactors on the screen,
 Just like the Matrix Movie!!.With the power of C++ this can be achieved within VisualStudio and can print the Digtial Rain effect just like the movie. With the power of vectors filling Matrixes this can be achived and using the FillRand fucntion from the random number library we can fill the rainingCharactors array with random charactors to make it seem like the charactors are random in the matrix like the marrix movie.       
 
-**Design & Test**
+##Design & Test
 
 
 To design the DigitalRain I used C++ programming langauge and use visaul studio IDE.
-I used vectors to fill a 2d matrix that will fill the matrix with randomcharactors to print the matrix before it could print the random charactors which is achived by using the random number library. In order to intialise the matrix I had to resize my matrix before filling it with raining charactors vector so that it can print the matrix using my run function where I have for loops looping through the collumns and rows by moving the charactors down, after moving the characters down I am using the fill rand function to fill the top row with new random characters then I am going to use another nested for loop that first will print the collumns and rows to create a rain effect.
+I used vectors to fill a 2d matrix that will fill the matrix with randomcharactors, to print the matrix before it could print the random charactors which is achived by using the random number library. In order to intialise the matrix I had to resize my matrix before filling it with raining charactors vector, so that it can print the matrix using my run function where I have for nested loops, looping through the collumns and rows by moving the charactors down, after moving the characters down I am using the fill rand function to fill the top row with new random characters, then I am going to use another nested for loop that first will print the collumns and rows to create a rain effect.
 
 ````/*
 .------..------..------..------..------..------..------.     .------..------..------..------..------..------.
@@ -165,9 +165,9 @@ As you can see in my DigitalRain.cpp file I am using the FillRand from the rando
              
 Algorithm 
 
-
-
 Problem-solving
+For this project I kept getting the same output grid which it was printing the random numbers from the top row after filling the matrix with raingingCharacters but the problem was that I wasn't printing collumns which meant I was only looping through the rows and not the collumns thus when its not loopint through collumns first it will only loop through the rows and print it only in the grid which is as you can see here
+
 
 Modren C++
 
