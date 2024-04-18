@@ -216,10 +216,10 @@ For this project I kept getting the same output grid which it was printing the r
 
 
 ##Modren C++
-
+My code uses Modren C++ to utilise standard librarys to implement features so that I can make projects with effienct code and clean code too. It uses the random number library for the FillRand function to fill the matrix with random numbers.
 
 
 ##References
-
+[1] M. Lynch. “C++”, [Lecture], Digital Signal Processing, Galway-Mayo Institute of Technology, Galway, 2024
 
 
