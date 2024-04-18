@@ -166,6 +166,7 @@ As you can see in my DigitalRain.cpp file I am using the FillRand from the rando
 ##Algorithm 
 
 ##Problem-solving
+
 For this project I kept getting the same output grid which it was printing the random numbers from the top row after filling the matrix with raingingCharacters but the problem was that I wasn't printing collumns which meant I was only looping through the rows and not the collumns thus when its not loopint through collumns first it will only loop through the rows and print it only in the grid which is as you can see here
 <img src="https://raw.githubusercontent.com/StephenHarney/2024-03-11-digital-rain-cpp/main/docs/assets/RowsError.png" width="400" height="300">
 
